@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Testing"  >
+  <test name="launch chrome" >
+  	<parameter name="browser" value="Chrome"/>
+   <classes>
+       <class name="com.selinium.Activity2" />
+    </classes>
+  </test>
+  
+  <test name="launch firefox" >
+  <parameter name="browser" value="Firefox"/>
+    <classes>
+       <class name="com.selinium.Activity2" />
+    </classes>
+  </test>
+
+</suite>
