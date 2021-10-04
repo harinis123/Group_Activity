@@ -61,7 +61,8 @@ public class Activity2 {
 
 			throw new Exception("Browser is not correct");
 		}
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Thread.sleep(5000);
 		driver.manage().window().maximize();
 		driver.get("https://www.demoblaze.com/index.html#");
 	}
