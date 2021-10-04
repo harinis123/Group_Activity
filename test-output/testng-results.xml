@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-04T11:25:46 IST" name="Testing" finished-at="2021-10-04T11:28:23 IST" duration-ms="156609">
+  <suite started-at="2021-10-04T12:22:57 IST" name="Testing" finished-at="2021-10-04T12:25:35 IST" duration-ms="157921">
     <groups>
     </groups>
-    <test started-at="2021-10-04T11:25:46 IST" name="launch chrome" finished-at="2021-10-04T11:27:03 IST" duration-ms="76961">
+    <test started-at="2021-10-04T12:22:57 IST" name="launch chrome" finished-at="2021-10-04T12:24:13 IST" duration-ms="75711">
       <class name="com.selinium.Activity2">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:25:46 IST" name="launch" finished-at="2021-10-04T11:25:57 IST" duration-ms="11471" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:22:57 IST" name="launch" finished-at="2021-10-04T12:23:07 IST" duration-ms="10107" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,67 +18,67 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method is-config="true" signature="signup()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:25:57 IST" name="signup" finished-at="2021-10-04T11:26:01 IST" duration-ms="3467" status="PASS">
+        <test-method is-config="true" signature="signup()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:07 IST" name="signup" finished-at="2021-10-04T12:23:11 IST" duration-ms="3588" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:01 IST" name="login" finished-at="2021-10-04T11:26:05 IST" depends-on-methods="com.selinium.Activity2.signup" duration-ms="4430" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:11 IST" name="login" finished-at="2021-10-04T12:23:15 IST" depends-on-methods="com.selinium.Activity2.signup" duration-ms="4490" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="verifyusername()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:05 IST" name="verifyusername" finished-at="2021-10-04T11:26:10 IST" duration-ms="5047" status="PASS">
+        <test-method is-config="true" signature="verifyusername()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:15 IST" name="verifyusername" finished-at="2021-10-04T12:23:20 IST" duration-ms="5059" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyusername -->
-        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:10 IST" name="home" finished-at="2021-10-04T11:26:13 IST" duration-ms="2781" status="PASS">
+        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:21 IST" name="home" finished-at="2021-10-04T12:23:23 IST" duration-ms="2578" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
-        <test-method signature="selectlaptop()[pri:1, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:13 IST" name="selectlaptop" finished-at="2021-10-04T11:26:16 IST" duration-ms="2783" status="PASS">
+        <test-method signature="selectlaptop()[pri:1, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:23 IST" name="selectlaptop" finished-at="2021-10-04T12:23:26 IST" duration-ms="3042" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectlaptop -->
-        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:16 IST" name="addandcheckcart" finished-at="2021-10-04T11:26:22 IST" duration-ms="6369" status="PASS">
+        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:26 IST" name="addandcheckcart" finished-at="2021-10-04T12:23:32 IST" duration-ms="6331" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addandcheckcart -->
-        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:22 IST" name="home" finished-at="2021-10-04T11:26:25 IST" duration-ms="2875" status="PASS">
+        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:32 IST" name="home" finished-at="2021-10-04T12:23:35 IST" duration-ms="3009" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
-        <test-method signature="selectphone()[pri:2, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:25 IST" name="selectphone" finished-at="2021-10-04T11:26:30 IST" duration-ms="5049" status="PASS">
+        <test-method signature="selectphone()[pri:2, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:35 IST" name="selectphone" finished-at="2021-10-04T12:23:40 IST" duration-ms="5008" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectphone -->
-        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:30 IST" name="addandcheckcart" finished-at="2021-10-04T11:26:36 IST" duration-ms="6041" status="PASS">
+        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:40 IST" name="addandcheckcart" finished-at="2021-10-04T12:23:47 IST" duration-ms="6299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addandcheckcart -->
-        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:36 IST" name="home" finished-at="2021-10-04T11:26:39 IST" duration-ms="2906" status="PASS">
+        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:47 IST" name="home" finished-at="2021-10-04T12:23:50 IST" duration-ms="2914" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
-        <test-method signature="selectmonitor()[pri:3, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:39 IST" name="selectmonitor" finished-at="2021-10-04T11:26:44 IST" duration-ms="5041" status="PASS">
+        <test-method signature="selectmonitor()[pri:3, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:50 IST" name="selectmonitor" finished-at="2021-10-04T12:23:55 IST" duration-ms="4841" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectmonitor -->
-        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:44 IST" name="addandcheckcart" finished-at="2021-10-04T11:26:50 IST" duration-ms="6094" status="PASS">
+        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:23:55 IST" name="addandcheckcart" finished-at="2021-10-04T12:24:01 IST" duration-ms="6201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addandcheckcart -->
-        <test-method is-config="true" signature="placeonorder()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:50 IST" name="placeonorder" finished-at="2021-10-04T11:26:56 IST" duration-ms="5477" status="PASS">
+        <test-method is-config="true" signature="placeonorder()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:24:01 IST" name="placeonorder" finished-at="2021-10-04T12:24:06 IST" duration-ms="5631" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- placeonorder -->
-        <test-method is-config="true" signature="logoutandclosebrowser()[pri:0, instance:com.selinium.Activity2@729d991e]" started-at="2021-10-04T11:26:56 IST" name="logoutandclosebrowser" finished-at="2021-10-04T11:27:03 IST" duration-ms="7067" status="PASS">
+        <test-method is-config="true" signature="logoutandclosebrowser()[pri:0, instance:com.selinium.Activity2@54a7079e]" started-at="2021-10-04T12:24:06 IST" name="logoutandclosebrowser" finished-at="2021-10-04T12:24:13 IST" duration-ms="6541" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutandclosebrowser -->
       </class> <!-- com.selinium.Activity2 -->
     </test> <!-- launch chrome -->
-    <test started-at="2021-10-04T11:27:03 IST" name="launch firefox" finished-at="2021-10-04T11:28:23 IST" duration-ms="79554">
+    <test started-at="2021-10-04T12:24:13 IST" name="launch firefox" finished-at="2021-10-04T12:25:35 IST" duration-ms="82118">
       <class name="com.selinium.Activity2">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:03 IST" name="launch" finished-at="2021-10-04T11:27:16 IST" duration-ms="13295" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:13 IST" name="launch" finished-at="2021-10-04T12:24:26 IST" duration-ms="13481" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -89,59 +89,59 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method is-config="true" signature="signup()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:16 IST" name="signup" finished-at="2021-10-04T11:27:21 IST" duration-ms="4242" status="PASS">
+        <test-method is-config="true" signature="signup()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:26 IST" name="signup" finished-at="2021-10-04T12:24:31 IST" duration-ms="4353" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:21 IST" name="login" finished-at="2021-10-04T11:27:25 IST" depends-on-methods="com.selinium.Activity2.signup" duration-ms="4568" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:31 IST" name="login" finished-at="2021-10-04T12:24:36 IST" depends-on-methods="com.selinium.Activity2.signup" duration-ms="4710" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="verifyusername()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:25 IST" name="verifyusername" finished-at="2021-10-04T11:27:30 IST" duration-ms="5017" status="PASS">
+        <test-method is-config="true" signature="verifyusername()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:36 IST" name="verifyusername" finished-at="2021-10-04T12:24:41 IST" duration-ms="5041" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyusername -->
-        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:30 IST" name="home" finished-at="2021-10-04T11:27:33 IST" duration-ms="2923" status="PASS">
+        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:41 IST" name="home" finished-at="2021-10-04T12:24:44 IST" duration-ms="3178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
-        <test-method signature="selectlaptop()[pri:1, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:33 IST" name="selectlaptop" finished-at="2021-10-04T11:27:36 IST" duration-ms="2780" status="PASS">
+        <test-method signature="selectlaptop()[pri:1, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:44 IST" name="selectlaptop" finished-at="2021-10-04T12:24:47 IST" duration-ms="3216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectlaptop -->
-        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:36 IST" name="addandcheckcart" finished-at="2021-10-04T11:27:42 IST" duration-ms="6095" status="PASS">
+        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:47 IST" name="addandcheckcart" finished-at="2021-10-04T12:24:53 IST" duration-ms="6197" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addandcheckcart -->
-        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:42 IST" name="home" finished-at="2021-10-04T11:27:45 IST" duration-ms="2895" status="PASS">
+        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:53 IST" name="home" finished-at="2021-10-04T12:24:56 IST" duration-ms="3043" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
-        <test-method signature="selectphone()[pri:2, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:45 IST" name="selectphone" finished-at="2021-10-04T11:27:50 IST" duration-ms="4847" status="PASS">
+        <test-method signature="selectphone()[pri:2, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:24:56 IST" name="selectphone" finished-at="2021-10-04T12:25:02 IST" duration-ms="5332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectphone -->
-        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:50 IST" name="addandcheckcart" finished-at="2021-10-04T11:27:56 IST" duration-ms="6057" status="PASS">
+        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:25:02 IST" name="addandcheckcart" finished-at="2021-10-04T12:25:08 IST" duration-ms="6245" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addandcheckcart -->
-        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:56 IST" name="home" finished-at="2021-10-04T11:27:59 IST" duration-ms="3145" status="PASS">
+        <test-method is-config="true" signature="home()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:25:08 IST" name="home" finished-at="2021-10-04T12:25:11 IST" duration-ms="3308" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
-        <test-method signature="selectmonitor()[pri:3, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:27:59 IST" name="selectmonitor" finished-at="2021-10-04T11:28:04 IST" duration-ms="4993" status="PASS">
+        <test-method signature="selectmonitor()[pri:3, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:25:11 IST" name="selectmonitor" finished-at="2021-10-04T12:25:16 IST" duration-ms="4967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectmonitor -->
-        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:28:04 IST" name="addandcheckcart" finished-at="2021-10-04T11:28:10 IST" duration-ms="6108" status="PASS">
+        <test-method is-config="true" signature="addandcheckcart()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:25:16 IST" name="addandcheckcart" finished-at="2021-10-04T12:25:22 IST" duration-ms="6257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addandcheckcart -->
-        <test-method is-config="true" signature="placeonorder()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:28:10 IST" name="placeonorder" finished-at="2021-10-04T11:28:15 IST" duration-ms="5079" status="PASS">
+        <test-method is-config="true" signature="placeonorder()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:25:22 IST" name="placeonorder" finished-at="2021-10-04T12:25:27 IST" duration-ms="5108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- placeonorder -->
-        <test-method is-config="true" signature="logoutandclosebrowser()[pri:0, instance:com.selinium.Activity2@4d5650ae]" started-at="2021-10-04T11:28:15 IST" name="logoutandclosebrowser" finished-at="2021-10-04T11:28:23 IST" duration-ms="7501" status="PASS">
+        <test-method is-config="true" signature="logoutandclosebrowser()[pri:0, instance:com.selinium.Activity2@13e344d]" started-at="2021-10-04T12:25:27 IST" name="logoutandclosebrowser" finished-at="2021-10-04T12:25:35 IST" duration-ms="7658" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutandclosebrowser -->

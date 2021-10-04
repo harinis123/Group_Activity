@@ -117,12 +117,9 @@ public class Activity2 {
 	public void login() throws InterruptedException {
 
 		Thread.sleep(2000);
-
 		WebElement loginlink = driver.findElement(By.linkText("Log in"));
 		loginlink.click();
-
 		Thread.sleep(2000);
-
 		WebElement lusername = driver.findElement(By.id("loginusername"));
 		lusername.sendKeys(username);
 
